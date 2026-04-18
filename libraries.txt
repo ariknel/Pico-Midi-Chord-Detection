@@ -1,7 +1,0 @@
-# Wokwi Library Manager
-# These libraries are automatically installed in the Wokwi simulator.
-# In the real Arduino IDE: install via Tools → Manage Libraries
-
-Adafruit SSD1306
-Adafruit GFX Library
-Adafruit BusIO
